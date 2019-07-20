@@ -1,0 +1,86 @@
+{
+    "id": "9IJWn94JuQhSzRDaXSrwaA",
+    "alias": "american-bounty-restaurant-hyde-park",
+    "name": "American Bounty Restaurant",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Hbh4iCFFYvOWNmya3EgEpA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/american-bounty-restaurant-hyde-park?adjust_creative=3oHJN33zqkBSe8gJ8DQixw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=3oHJN33zqkBSe8gJ8DQixw",
+    "phone": "+18454511011",
+    "display_phone": "(845) 451-1011",
+    "review_count": 151,
+    "categories": [
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        }
+    ],
+    "rating": 4,
+    "location": {
+        "address1": "1946 Campus Dr",
+        "address2": "",
+        "address3": "",
+        "city": "Hyde Park",
+        "zip_code": "12538",
+        "country": "US",
+        "state": "NY",
+        "display_address": [
+            "1946 Campus Dr",
+            "Hyde Park, NY 12538"
+        ],
+        "cross_streets": ""
+    },
+    "coordinates": {
+        "latitude": 41.7458486,
+        "longitude": -73.9327183
+    },
+    "photos": [
+        "https://s3-media1.fl.yelpcdn.com/bphoto/Hbh4iCFFYvOWNmya3EgEpA/o.jpg",
+        "https://s3-media3.fl.yelpcdn.com/bphoto/DsezNiJl1FfHSWkCZO6uJA/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/NMEXUfmKhkZYCi-iX0kefg/o.jpg"
+    ],
+    "price": "$$$",
+    "hours": [
+        {
+            "open": [
+                {
+                    "is_overnight": false,
+                    "start": "1130",
+                    "end": "2030",
+                    "day": 1
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1130",
+                    "end": "2030",
+                    "day": 2
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1130",
+                    "end": "2030",
+                    "day": 3
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1130",
+                    "end": "2030",
+                    "day": 4
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1130",
+                    "end": "2030",
+                    "day": 5
+                }
+            ],
+            "hours_type": "REGULAR",
+            "is_open_now": false
+        }
+    ],
+    "transactions": [],
+    "messaging": {
+        "url": "https://www.yelp.com/raq/american-bounty-restaurant-hyde-park?adjust_creative=3oHJN33zqkBSe8gJ8DQixw&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=3oHJN33zqkBSe8gJ8DQixw#popup%3Araq",
+        "use_case_text": "Message the Business"
+    }
+}

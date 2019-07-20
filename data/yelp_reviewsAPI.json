@@ -1,0 +1,47 @@
+{
+    "reviews": [
+        {
+            "id": "tGf1TIKwIouH2Z5_tCvzFA",
+            "url": "https://www.yelp.com/biz/american-bounty-restaurant-hyde-park?adjust_creative=3oHJN33zqkBSe8gJ8DQixw&hrid=tGf1TIKwIouH2Z5_tCvzFA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=3oHJN33zqkBSe8gJ8DQixw",
+            "text": "It has been years since the last time I ate here, but it might even be better than I remembered.  We had a reservation for two @11:30 which is right when...",
+            "rating": 5,
+            "time_created": "2019-07-14 09:44:27",
+            "user": {
+                "id": "zGAvrElaD6VX0heJuWvGTQ",
+                "profile_url": "https://www.yelp.com/user_details?userid=zGAvrElaD6VX0heJuWvGTQ",
+                "image_url": "https://s3-media1.fl.yelpcdn.com/photo/P7DFwOnJf7PhsopoW5nKJw/o.jpg",
+                "name": "Ryan B."
+            }
+        },
+        {
+            "id": "N-AtUiBrLuGflQd-DFF9hg",
+            "url": "https://www.yelp.com/biz/american-bounty-restaurant-hyde-park?adjust_creative=3oHJN33zqkBSe8gJ8DQixw&hrid=N-AtUiBrLuGflQd-DFF9hg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=3oHJN33zqkBSe8gJ8DQixw",
+            "text": "I'm a native Poughkeepsie-ian (-ite?). I like to to bring all out of town guests to the CIA campus to show off the beauty and bougie of the Hudson Valley....",
+            "rating": 4,
+            "time_created": "2019-04-17 22:26:43",
+            "user": {
+                "id": "2Lk0Yaa_VCBjjdhsIseaTA",
+                "profile_url": "https://www.yelp.com/user_details?userid=2Lk0Yaa_VCBjjdhsIseaTA",
+                "image_url": "https://s3-media3.fl.yelpcdn.com/photo/R_q_tUBbiyPu4MX2h1vXYA/o.jpg",
+                "name": "Priyanka K."
+            }
+        },
+        {
+            "id": "AFZ0pn6i38iAuvMIVAeMMg",
+            "url": "https://www.yelp.com/biz/american-bounty-restaurant-hyde-park?adjust_creative=3oHJN33zqkBSe8gJ8DQixw&hrid=AFZ0pn6i38iAuvMIVAeMMg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=3oHJN33zqkBSe8gJ8DQixw",
+            "text": "During our fun and delicious visit to The Culinary Institute of America, we went to have lunch at this restaurant. We got a table by the window, close to...",
+            "rating": 4,
+            "time_created": "2018-08-31 09:47:32",
+            "user": {
+                "id": "xLJhiR7QIbLTFWX6FzUQ7A",
+                "profile_url": "https://www.yelp.com/user_details?userid=xLJhiR7QIbLTFWX6FzUQ7A",
+                "image_url": "https://s3-media4.fl.yelpcdn.com/photo/cm9wP4UaBgz3B5HcpRRjHg/o.jpg",
+                "name": "June S."
+            }
+        }
+    ],
+    "total": 151,
+    "possible_languages": [
+        "en"
+    ]
+}
